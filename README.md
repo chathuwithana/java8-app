@@ -1,2 +1,2 @@
 # java8-app
-Java 8 samples for demo
+This is a Java 8 tutorial project by Chathuranga Withana
